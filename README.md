@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![st](https://github.com/user-attachments/assets/afa1ddb3-9d3b-4faf-9bed-3b9511aa95a2)
+
 # Installation
 
 
